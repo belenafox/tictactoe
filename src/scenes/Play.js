@@ -108,7 +108,7 @@ class Play extends Phaser.Scene {
             });
 
         });
-
+ 
         this.add.tween({
             targets: [
                 ...this.positionTablero,
